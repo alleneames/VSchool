@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+}
+
+.dj {
+    height: 400px;
+    width: 300px;
+    margin-left: 40%;
+    margin-top: 10%;
+    background-color: blue;
+    border: none;
+    transition: height 3s ease;
+    
+    
+}
+
+.box {
+    height: 500px;
+    background-color: orange
+    
+    
+}
+
+.box1 {
+    
+}
+

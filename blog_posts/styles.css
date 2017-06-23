@@ -1,0 +1,60 @@
+nav {
+    background-color: #1FC3F5;
+    color: whitesmoke;
+    display: inline-block;
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    opacity: .9;
+}
+
+body {
+    background-color: aqua
+}
+
+nav h1 {
+    opacity: 1
+}
+
+#linkNav {
+    display: inline-block;
+    float: right;
+    opacity: 1;
+}
+
+ul {
+    list-style-type: none;
+    padding-right: 10px;
+}
+
+#linkNav a:link {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+h4 {
+    font-style: italic;
+}
+
+.blog {
+    position: relative;
+    margin-top: 180px;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center
+    
+}
+
+.blog #tesla {
+    width: 75%;
+    height: 40%;
+    float: right;
+}
+
+.blog #OS {
+    width: 250px;
+    height: 300px;
+    float: inherit;
+}

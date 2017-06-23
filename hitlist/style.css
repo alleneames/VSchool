@@ -1,0 +1,49 @@
+.custom-navbar {
+    background-color: black;
+    padding-bottom: 30px
+}
+
+body {
+    background-color: black
+}
+.hit-box {
+    width: 100%;
+    height: 300px;
+    background-color: purple;
+    position: relative;
+    
+}
+
+.name {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 10%;
+    background-color: rgba(255,0,0,.4);
+    color: white;
+    text-align: center;
+    
+}
+
+#hit-list {
+    
+    background-color: black;
+    margin-top: 100px;
+}
+
+#nav-image {
+    transform: rotate(90deg);
+    width: 80px;
+    margin-top: -20px;
+    margin-left: 70px;
+}
+
+ul h1 {
+    color: #FF0000;
+/*    font-size: 400;*/
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+ul li {
+    margin-right: 150px
+}

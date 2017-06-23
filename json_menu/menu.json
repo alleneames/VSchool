@@ -1,0 +1,58 @@
+{
+    "breakfast": [
+        {
+            "name": "Eggs Benedict",
+            "main": "eggs benedict",
+            "side": "hashbrowns",
+            "ing": ["egg", "holendaise", "potato"]
+        },
+        {
+            "name": "Classic Breakfast",
+            "main": "Eggs",
+            "side": "bacon",
+            "ing": ["egg", "pig", "potato"]
+        },
+        {
+            "name": "Garbage Plate",
+            "main": "Hash",
+            "side": "a good feeling",
+            "ing": ["pork", "egg", "potato"]
+        }
+    ],
+    "lunch": [
+        {
+            "name": "Turkey Sandwich",
+            "main": "Turkey Sandwich",
+            "side": "fries",
+            "ing": ["turkey", "tomato", "wheat bread", "potato"]
+        },
+        {
+            "name": "Sushi",
+            "main": "California Rolls",
+            "side": "A good feeling",
+            "ing": ["fish", "feelings"]
+        },
+        {
+            "name": "Salad",
+            "main": "Tuscan Salad",
+            "side": "Dressing",
+            "ing": ["lettuce", "nuts", "cheese", "good feelings"]
+        }
+
+    ],
+    "dinner": [
+
+        {
+            "name": "Slidin Goodness",
+            "main": "Hamburger Sliders",
+            "side": "fries",
+            "ing": ["beef", "potato"]
+        },
+        {
+            "name": "Smothered Burrito",
+            "main": "Chili Verde",
+            "side": "rice",
+            "ing": ["rice", "pork", "flour"]
+        }
+    ]
+}

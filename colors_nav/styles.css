@@ -1,0 +1,57 @@
+
+header {
+    background-color: #E80CE4;
+    width: 100%;
+
+    
+}
+
+h1 {
+    display: block;
+    text-align: center;
+    
+    
+    
+}
+nav li {
+    display: inline-block;
+    text-align: center;
+    padding: 50px;
+    
+    font-family: 'Barrio', cursive;
+    
+}
+
+body {
+/*    padding: -10px 0 0 0;*/
+    margin: -22px 0 0 0;
+    text-align: center;
+    background-color: aqua
+}
+
+main {
+    display: inline-block;
+    width: 49%;
+    float: right
+    
+}
+
+
+aside img {
+    float: right;
+    display: inline-block;
+    width: 49%;
+    border: 5px solid 
+}
+
+footer {
+    width: 100%;
+    display: inline-block;
+    
+}
+
+footer span {
+    
+    padding: 25px 0 0 25px;
+    
+}
