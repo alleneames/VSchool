@@ -1,0 +1,23 @@
+.test {
+    background-image: url("http://i0.kym-cdn.com/photos/images/facebook/001/016/968/e7a.png");
+    background-position: center; 
+    background-repeat: no-repeat;
+    height: 100vh;
+    
+   
+}
+
+.title {
+    color: darkblue;
+    font-size: 100px;
+    text-align: center;
+}
+
+footer {
+    background-color: black;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    color: white;
+    text-align: center;
+}
