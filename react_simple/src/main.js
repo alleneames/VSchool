@@ -20,3 +20,6 @@ class Main extends React.Component {
 }
 
 export default Main;
+
+
+//This article handles rendering of article items to the main page. This is also know 

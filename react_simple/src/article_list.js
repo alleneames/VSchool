@@ -26,3 +26,5 @@ class ArticleList extends React.Component {
 
 
 export default ArticleList;
+
+//also known as a container, this article handles logic for the main page. 
