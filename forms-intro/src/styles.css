@@ -1,0 +1,25 @@
+body {
+    background-color: #2AF5BA;
+}
+
+.custom-col {
+    text-align: center;
+    margin-top: 20%;
+    
+}
+
+.title {
+    font-family: 'Oswald', sans-serif;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.input {
+    padding: 5px;
+    border-radius: 4px;
+    background-image: url("https://static1.squarespace.com/static/560ec1d6e4b0e6c310b55aa8/t/560ffd33e4b0c37386d8d6c0/1443888440952/RainDrop.jpg?format=1500w");
+    font-display: 
+}
+
