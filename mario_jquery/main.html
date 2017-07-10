@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="styles.css" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Press+Start+2P" rel="stylesheet">
+</head>
+<body>
+<!--This container holds catch elements-->
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="header">
+                    <h1>Mario Pest Control</h1>
+                </div>
+            </div>
+        </div>
+        <div>
+            <div class="row">
+                <div class="col-md-4">
+                    <div id="Goombas">
+                        <h2>Goombas</h2>
+                            <p><img src="http://vignette3.wikia.nocookie.net/fantendo/images/c/cd/Goomba_Looking.png/revision/latest?cb=20120731143323%5C" alt="Goomba"></p>
+                            <div class="worth">5 Coins</div>
+                            <input id="gInput" type="number" placeholder="Enter # of catches">
+                            <button id="gButton" type="button" class="btn btn-success">Add Me</button>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div id="Bob-ombs">
+                        <h2>Bob-ombs</h2>
+                            <p><img src="https://vignette4.wikia.nocookie.net/mario/images/0/06/Bob-omb.png/revision/latest?cb=20120422215816" alt="Bob-ombs"></p>
+                            <div class="worth">7 Coins</div>
+                            <input id="bInput" type="number" placeholder="Enter # of catches">
+                            <button id="bButton" type="button" class="btn btn-success">Add Me</button>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div id="Cheep-cheeps">
+                        <h2>Cheep-cheeps</h2>
+                            <p><img src="https://vignette1.wikia.nocookie.net/fantendo/images/2/29/Gold_cheep_cheep.png/revision/latest?cb=20120817223710" alt="Cheep-cheep"></p>
+                            <div class ="worth">11 Coins</div>
+                            <input id="cInput" type="number" placeholder="Enter # of catches">
+                            <Button id="cButton" type="button" class="btn btn-success">Add me</Button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+<!--This container holds totals-->
+     <div class="container-fluid">
+         <div class="row">
+             <div class="col-md-4">
+                 <div class="total"></div>
+                 <div id="gOutput">Total: #</div>
+             </div>
+             <div class="col-md-4">
+                 <div class="total"></div>
+                 <div id="bOutput">Total: #</div>
+             </div>
+             <div class="col-md-4">
+                 <div class="total"></div>
+                 <div id="cOutput">Total: #</div>
+             </div>
+         </div>
+         <div class="row">
+             <div class="col-md-12 center-block text-center">
+                 <div class="center-block" id="grandTotal"></div>
+                     <div class="coins center-block">Coins</div>
+             </div>
+         </div>
+     </div>
+     <div class="container-fluid">
+         <div class="row">
+             <div class="col-md-12">
+                 <div class="footer contact-me">Contact Me</div>
+             </div>
+         </div>
+         <div class="row">
+             <div class="col-md-4">
+                 <div class="footer email"><a href="mailto:fakeemail@nothing.com">mario@nintendo.com</a></div>
+             </div>
+             <div class="col-md-4">
+                 <div class="footer website"><a href="http://www.nintendo.com/">Visit My Website</a></div>
+             </div>
+             <div class="col-md-4">
+                 <div class="footer address">123 Mario Way</div>
+             </div>
+         </div>
+     </div>
+    
+<script
+  src="https://code.jquery.com/jquery-3.2.1.min.js"
+  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+  crossorigin="anonymous"></script>     
+<script src="index.js"></script>
+   
+</body>
+</html>

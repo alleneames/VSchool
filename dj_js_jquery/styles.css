@@ -1,0 +1,10 @@
+#box {
+    height: 250px;
+    width: 250px;
+    background-color: aqua;
+    margin: auto;
+}
+
+.hover {
+    background-color: red !important;
+}
