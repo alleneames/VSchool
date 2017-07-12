@@ -1,0 +1,21 @@
+body {
+    background-color: black
+}
+
+h1 {
+    color: yellow;
+    
+}
+
+h2 {
+    color: yellow;
+    
+}
+
+button {
+    align-items: center;
+}
+
+.counter {
+    text-align: center;
+}
