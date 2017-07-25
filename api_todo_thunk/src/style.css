@@ -1,0 +1,39 @@
+.header {
+    text-align: center;
+}
+
+.custom-jumbotron {
+    background-image: url("https://airbitz.co/media/business_images/pencil_and_graph_paper-1ds5viu_1.jpg");
+    background-position: 20% 30%;
+    background-size: cover;
+}
+
+body {
+    background-color: #FAF2AD;
+}
+
+.custom-row {
+    text-align: center;
+}
+
+input {
+    padding: 0 50px 0 50px;
+}
+
+.description {
+    padding: 0 100px 0 100px !important;
+}
+
+.result {
+    text-align: center;
+    border-bottom: 1px solid;
+}
+
+.button {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.remove {
+    margin-top: 20px
+}

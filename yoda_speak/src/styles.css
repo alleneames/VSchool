@@ -1,0 +1,16 @@
+.yoda-container {
+    text-align: center;
+    margin-top: 20%;
+}
+
+input {
+    margin: 0 100px 0 100px;
+}
+
+button {
+    margin: 10px 0 10px 0
+}
+
+.yoda-title {
+    color: green;
+}
