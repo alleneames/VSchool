@@ -1,0 +1,17 @@
+.test-link {
+    text-align: center;
+}
+
+.main-link {
+    margin: 50px;
+}
+
+.main-content {
+    background-image: url("https://3dprint.com/wp-content/uploads/2015/12/moonbase.jpg");
+    height: 100vh;
+}
+
+.main-content h1 {
+    text-align: center;
+    color: white;
+}
