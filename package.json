@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/alleneames/VSchool#readme",
   "dependencies": {
-    "readline-sync": "^1.4.7"
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.4",
+    "express": "^4.15.3",
+    "readline-sync": "^1.4.7",
+    "uuid": "^3.1.0"
   }
 }
