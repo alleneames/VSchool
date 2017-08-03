@@ -37,7 +37,6 @@ todoRouter.route("/")
 })
 
 todoRouter.route("/:id")
-
 .get((req, res)=>{
     Todo.findOne({"_id": req.params.id}, (err, data)=>{
         if(err){
