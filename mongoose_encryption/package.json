@@ -1,0 +1,16 @@
+{
+  "name": "mongoose_encryption",
+  "version": "1.0.0",
+  "description": "A mongoose model example with encryption",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Allen Eames",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^1.0.2",
+    "mongoose": "^4.11.6",
+    "readline-sync": "^1.4.7"
+  }
+}
